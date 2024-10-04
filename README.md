@@ -1,5 +1,10 @@
 ## Hi there 👋
+##I'm a programming and robotics enthusiast. Currently keen on learning coding and programming to become expert in the field. 
+Am trying to connect and work with mentors or peers on different projects, researches or competitions which involves and provides practical knowledge and hands on experience in different computing technologies.
 
+The passion of learning anything that can comprehend humans visualization whether a computer, code or any tech keeps me fueled to learn more, explore more and visualize more.
+
+The deep rooted urge to understand and learn everything in the technological sector has brought me to DTU where I am pursuing B. Tech in Information Technology. Thus the 'T' in DTU amazes me with the opportunity it brings to me.
 <!--
 **CapXMrunal/CapXMrunal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
